@@ -193,7 +193,7 @@ nose @ file:///opt/conda/conda-bld/nose_1642704612149/work
 notebook @ file:///C:/Windows/TEMP/abs_79abr1_60s/croots/recipe/notebook_1659083661851/work
 numba @ file:///C:/ci/numba_1650394399948/work
 numexpr @ file:///C:/Windows/Temp/abs_e2036a32-9fe9-47f3-a04c-dbb1c232ba4b334exiur/croots/recipe/numexpr_1656940304835/work
-numpy==1.25.1
+numpy==1.23.5
 numpydoc @ file:///C:/Windows/TEMP/abs_30799058-86dd-4401-b621-d172137a4d87_ra3twm7/croots/recipe/numpydoc_1657529873713/work
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 opencv-python==4.8.0.74
